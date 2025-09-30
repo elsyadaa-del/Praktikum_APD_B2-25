@@ -4,7 +4,7 @@ nama = input("Silahkan isi nama anda..")
 NIM = int(input("Silahkan isi NIM anda.."))
 harga = int(input("Budget yang inginkan.."))
  # hitung harga makanan + PPN 
-hpl = 15000 + (15000 * 5/100)   # Pecel Lele + 5% PPN
+hpl = 15000 + (15000 *5/100)   # Pecel Lele + 5% PPN
 hma = 15000 + (15000 *8/100)    #Mie Ayam + 8% PPN
 hnp = 15000 + (15000 *10/100)   # Nasi Padang + 10% PPN
  #Tampilkan hasil
